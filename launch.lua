@@ -6,9 +6,6 @@ function loaded()
 			errMsg:Destroy()
 		end)
   
-repeat
-	task.wait()
-until game:IsLoaded()
 
 if game.PlaceId = 8737602449 and game.PlaceId = 8943844393 then --pd
   loadstring(game:HttpGet("https://raw.githubusercontent.com/OEPERdev/pdautofarm/main/autofarm",true))() 
