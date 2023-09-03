@@ -2,7 +2,7 @@
 
 # Information
 
-![read it]([https://cdn.discordapp.com/attachments/1117446415107498074/1147794822791438336/mulgh.jpg])
+![read it](https://cdn.discordapp.com/attachments/1117446415107498074/1147794822791438336/mulgh.jpg)
 ## Loadstring
 
 ```lua
