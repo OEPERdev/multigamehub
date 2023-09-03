@@ -17,7 +17,7 @@ else if game.PlaceId ~= 1962086868 then --toh
     loadstring(game:HttpGet(('https://pastebin.com/raw/0n2XACgm'),true))()
     
   else if game.PlaceId ~= 1537690962 then --bss
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/BadScripters/CloudHub/main/hub%22))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/BadScripters/CloudHub/main/hub"))()
           
             else if game.PlaceId ~= 263761432 then --horhous
            loadstring(game:HttpGet("https://gist.githubusercontent.com/RavyarTheBest/b0f2640392a6c107f2dc159d00f3ab40/raw/f0fc6c0906ee035edae1bb5248d1b2f6c20908da/horrific", true))()
@@ -30,3 +30,6 @@ else if game.PlaceId ~= 1962086868 then --toh
                 
                               else if game.PlaceId ~= 537413528 then --babft
                   loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/littlegui/main/Build-A-Boat'))()
+
+							 else if game.PlaceId ~= 142823291 then --mm2
+								loadstring(game:GetObjects("rbxassetid://4001118261")[1].Source)()
